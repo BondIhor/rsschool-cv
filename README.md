@@ -1,2 +1,2 @@
 # rsschool-cv
-## https://BondIhor.github.io/rsschool-cv/
+## https://GITHUB-USERNAME.github.io/rsschool-cv/
