@@ -7,6 +7,7 @@
 * e-mail: Promalp1307@gmail.com
 * GitHub: BondIhor
 * Discord: Ihor Bondarenko  
+
 ***  
 ## About myself  
 Currently working as electromechanic at milk processing plant. I am interested in web development, 
